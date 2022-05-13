@@ -1,0 +1,3 @@
+# KimzaAndroidProject
+
+Kimza Android Project
